@@ -1,25 +1,33 @@
-### Hi there 👋
+<pre>
+                  	  ___     ___    _________    ___         ___          __________ 	
+               		 |   |   |   |  |   ______|  |   |       |   |        |    __    |
+               		 |   |___|   |  |   |_____   |   |       |   |        |   |  |   | 				
+               		 |    ___    |  |   ______|  |   |       |   |        |   |  |   |			
+               		 |   |   |   |  |   |_____   |   |_____  |   |_____   |   |__|   |	
+               		 |___|   |___|  |_________|  |_________| |_________|  |__________|
+      
+</pre>
+✨ Hello again! ✨ My name is Jesus Gonzalez, I'm currently a fullstack coding bootcamp student at UCF expectd to graduate in Dec. 2022!
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jesusgonzalez05)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gonzalez-446a24152/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jesusgonzalez051698@gmail.com)
+
+
+## Technologies 💻 <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 <!--
-<pre>
-                    ___     ___    _________    ___         ___          __________        __________   __   ___     ___
-                   |   |   |   |  |   ______|  |   |       |   |        |    __    |      |___    ___|  \/  |   \   /   |
-                   |   |___|   |  |   |_____   |   |       |   |        |   |  |   |          |  |          |    \_/    |
-                   |    ___    |  |   ______|  |   |       |   |        |   |  |   |          |  |          |           |
-                   |   |   |   |  |   |_____   |   |_____  |   |_____   |   |__|   |       ___|  |___       |   |\_/|   |
-                   |___|   |___|  |_________|  |_________| |_________|  |__________|      |__________|      |___|   |___|
-      
-                                           ___    __________    __________    ___     ___    __________
-                                          |   |  |    ______|  |  ,_______|  |   |   |   |  |   ,______|
-                                          |   |  |   |_____    |  |_______   |   |   |   |  |   |______
-                                          |   |  |    _____|   |_______,  |  |   |   |   |  |______,   |
-                                  ,'' ,   |   |  |   |______   ,-------|  |  |   `___`   |  ,------|   |
-                                  `,   `''    |  |__________|  |__________|  |___________|  |__________|
-                                    ' ._._._. '     
-                           
-
-</pre>
-
 **JesusGonzalez05/JesusGonzalez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
