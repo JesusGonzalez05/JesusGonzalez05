@@ -14,8 +14,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jesusgonzalez051698@gmail.com)
 
 
-<!-- ![Jesus' GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusgonzalez&hide=contribs,prs&show_icons=true&theme=cobalt)
- -->
+![Jesus' GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusgonzalez&hide=contribs,prs&show_icons=true&theme=cobalt)
+ 
 
 ## Technologies 💻 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
