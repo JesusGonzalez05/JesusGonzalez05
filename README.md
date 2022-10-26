@@ -7,7 +7,7 @@
                		 |___|   |___|  |_________|  |_________| |_________|  |__________|
       
 </pre>
-✨ Hello again! ✨ My name is Jesus Gonzalez, I'm currently a fullstack coding bootcamp student at UCF expectd to graduate in Dec. 2022!
+✨ Hello again! ✨ My name is Jesus Gonzalez, I'm currently a fullstack coding bootcamp student at UCF expectd to graduate in Dec. 2022! I began teaching myself how to code early 2022 and fell in love with all the possibilities I could create! My curiosity grows daily for the creation and implementation of technolgies and hope my coding goals and endeavors can help contribute to further advances.
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jesusgonzalez05)
