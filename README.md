@@ -13,10 +13,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gonzalez-446a24152/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jesusgonzalez051698@gmail.com)
 
-
-
 [![Jesus' stats GRS](https://github-readme-stats.vercel.app/api?username=JesusGonzalez05&show_icons=true&theme=cobalt)](https://github.com/JesusGonzalez05)
- 
+
 
 ## Technologies 💻 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
