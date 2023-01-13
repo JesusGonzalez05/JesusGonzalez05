@@ -20,6 +20,7 @@
 
 ## Technologies 💻 <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat-square&logo=jquery)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
